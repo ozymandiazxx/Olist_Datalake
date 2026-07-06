@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdef9"
+    },
+    "num_pedidos": 16,
+    "total_gastado": 729.62,
+    "customer_unique_id": "8d50f5eadf50201ccdcedfb9e2ac8455"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdefa"
+    },
+    "num_pedidos": 9,
+    "total_gastado": 1000.85,
+    "customer_unique_id": "3e43e6105506432c953e165fb2acf44c"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdefb"
+    },
+    "num_pedidos": 7,
+    "total_gastado": 809.21,
+    "customer_unique_id": "1b6c7548a2a1f9037c1fd3ddfed95f33"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdefc"
+    },
+    "num_pedidos": 7,
+    "total_gastado": 806.61,
+    "customer_unique_id": "ca77025e7201e3b30c44b472ff346268"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdefd"
+    },
+    "num_pedidos": 7,
+    "total_gastado": 664.2,
+    "customer_unique_id": "6469f99c1f9dfae7733b25662e7f1782"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdefe"
+    },
+    "num_pedidos": 6,
+    "total_gastado": 836.6,
+    "customer_unique_id": "47c1a3033b8b77b3ab6e109eb4d5fdf3"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdeff"
+    },
+    "num_pedidos": 6,
+    "total_gastado": 687.76,
+    "customer_unique_id": "dc813062e0fc23409cd255f7f53c7074"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdf00"
+    },
+    "num_pedidos": 6,
+    "total_gastado": 579.81,
+    "customer_unique_id": "63cfc61cee11cbe306bff5857d00bfe4"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdf01"
+    },
+    "num_pedidos": 6,
+    "total_gastado": 438.09000000000003,
+    "customer_unique_id": "f0e310a6839dce9de1638e0fe5ab282a"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eff001032227cbdf02"
+    },
+    "num_pedidos": 6,
+    "total_gastado": 58.400000000000006,
+    "customer_unique_id": "12f5d6e1cbf93dafd9dcc19095df0b3d"
+  }
+]

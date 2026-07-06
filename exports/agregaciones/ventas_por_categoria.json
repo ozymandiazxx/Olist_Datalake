@@ -1,0 +1,578 @@
+[
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea6"
+    },
+    "total_ventas": 1258681.34,
+    "unidades": 9670,
+    "categoria": "health_beauty"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea7"
+    },
+    "total_ventas": 1205005.68,
+    "unidades": 5991,
+    "categoria": "watches_gifts"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea8"
+    },
+    "total_ventas": 1036988.68,
+    "unidades": 11115,
+    "categoria": "bed_bath_table"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea9"
+    },
+    "total_ventas": 988048.97,
+    "unidades": 8641,
+    "categoria": "sports_leisure"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeaa"
+    },
+    "total_ventas": 911954.32,
+    "unidades": 7827,
+    "categoria": "computers_accessories"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeab"
+    },
+    "total_ventas": 729762.49,
+    "unidades": 8334,
+    "categoria": "furniture_decor"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeac"
+    },
+    "total_ventas": 635290.85,
+    "unidades": 3796,
+    "categoria": "cool_stuff"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdead"
+    },
+    "total_ventas": 632248.66,
+    "unidades": 6964,
+    "categoria": "housewares"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeae"
+    },
+    "total_ventas": 592720.11,
+    "unidades": 4235,
+    "categoria": "auto"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeaf"
+    },
+    "total_ventas": 485256.46,
+    "unidades": 4347,
+    "categoria": "garden_tools"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb0"
+    },
+    "total_ventas": 483946.6,
+    "unidades": 4117,
+    "categoria": "toys"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb1"
+    },
+    "total_ventas": 411764.89,
+    "unidades": 3065,
+    "categoria": "baby"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb2"
+    },
+    "total_ventas": 399124.87,
+    "unidades": 3419,
+    "categoria": "perfumery"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb3"
+    },
+    "total_ventas": 323667.52999999997,
+    "unidades": 4545,
+    "categoria": "telephony"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb4"
+    },
+    "total_ventas": 273960.7,
+    "unidades": 1691,
+    "categoria": "office_furniture"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb5"
+    },
+    "total_ventas": 230943.23,
+    "unidades": 2517,
+    "categoria": "stationery"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb6"
+    },
+    "total_ventas": 222963.13,
+    "unidades": 203,
+    "categoria": "computers"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb7"
+    },
+    "total_ventas": 214315.41,
+    "unidades": 1947,
+    "categoria": "pet_shop"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb8"
+    },
+    "total_ventas": 191498.88,
+    "unidades": 680,
+    "categoria": "musical_instruments"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeb9"
+    },
+    "total_ventas": 190648.58,
+    "unidades": 679,
+    "categoria": "small_appliances"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeba"
+    },
+    "total_ventas": 185049.76,
+    "unidades": 1627,
+    "categoria": "unknown"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdebb"
+    },
+    "total_ventas": 160246.74,
+    "unidades": 2767,
+    "categoria": "electronics"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdebc"
+    },
+    "total_ventas": 157465.22,
+    "unidades": 1137,
+    "categoria": "consoles_games"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdebd"
+    },
+    "total_ventas": 152823.54,
+    "unidades": 2031,
+    "categoria": "fashion_bags_accessories"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdebe"
+    },
+    "total_ventas": 144677.59,
+    "unidades": 929,
+    "categoria": "construction_tools_construction"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdebf"
+    },
+    "total_ventas": 140429.98,
+    "unidades": 1092,
+    "categoria": "luggage_accessories"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec0"
+    },
+    "total_ventas": 113317.74,
+    "unidades": 238,
+    "categoria": "home_appliances_2"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec1"
+    },
+    "total_ventas": 83088.12,
+    "unidades": 604,
+    "categoria": "home_construction"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec2"
+    },
+    "total_ventas": 80171.53,
+    "unidades": 771,
+    "categoria": "home_appliances"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec3"
+    },
+    "total_ventas": 72530.47,
+    "unidades": 212,
+    "categoria": "agro_industry_and_commerce"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec4"
+    },
+    "total_ventas": 68916.56,
+    "unidades": 503,
+    "categoria": "furniture_living_room"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec5"
+    },
+    "total_ventas": 59583.0,
+    "unidades": 264,
+    "categoria": "fixed_telephony"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec6"
+    },
+    "total_ventas": 58572.04,
+    "unidades": 434,
+    "categoria": "home_confort"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec7"
+    },
+    "total_ventas": 55024.96,
+    "unidades": 297,
+    "categoria": "air_conditioning"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec8"
+    },
+    "total_ventas": 50688.5,
+    "unidades": 364,
+    "categoria": "audio"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdec9"
+    },
+    "total_ventas": 47445.71,
+    "unidades": 76,
+    "categoria": "small_appliances_home_oven_and_coffee"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeca"
+    },
+    "total_ventas": 46856.88,
+    "unidades": 553,
+    "categoria": "books_general_interest"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdecb"
+    },
+    "total_ventas": 46328.37,
+    "unidades": 281,
+    "categoria": "kitchen_dining_laundry_garden_furniture"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdecc"
+    },
+    "total_ventas": 41080.0,
+    "unidades": 304,
+    "categoria": "construction_tools_lights"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdecd"
+    },
+    "total_ventas": 40544.52,
+    "unidades": 194,
+    "categoria": "construction_tools_safety"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdece"
+    },
+    "total_ventas": 39669.61,
+    "unidades": 268,
+    "categoria": "industry_commerce_and_business"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdecf"
+    },
+    "total_ventas": 29393.41,
+    "unidades": 510,
+    "categoria": "food"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded0"
+    },
+    "total_ventas": 28378.47,
+    "unidades": 311,
+    "categoria": "market_place"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded1"
+    },
+    "total_ventas": 25715.89,
+    "unidades": 238,
+    "categoria": "costruction_tools_garden"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded2"
+    },
+    "total_ventas": 24202.64,
+    "unidades": 209,
+    "categoria": "art"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded3"
+    },
+    "total_ventas": 23562.77,
+    "unidades": 262,
+    "categoria": "fashion_shoes"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded4"
+    },
+    "total_ventas": 22428.7,
+    "unidades": 379,
+    "categoria": "drinks"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded5"
+    },
+    "total_ventas": 21509.23,
+    "unidades": 199,
+    "categoria": "signaling_and_security"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded6"
+    },
+    "total_ventas": 20028.78,
+    "unidades": 109,
+    "categoria": "furniture_bedroom"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded7"
+    },
+    "total_ventas": 19096.06,
+    "unidades": 267,
+    "categoria": "books_technical"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded8"
+    },
+    "total_ventas": 15903.95,
+    "unidades": 103,
+    "categoria": "costruction_tools_tools"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbded9"
+    },
+    "total_ventas": 15179.48,
+    "unidades": 278,
+    "categoria": "food_drink"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeda"
+    },
+    "total_ventas": 10797.82,
+    "unidades": 132,
+    "categoria": "fashion_male_clothing"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdedb"
+    },
+    "total_ventas": 9541.55,
+    "unidades": 131,
+    "categoria": "fashion_underwear_beach"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdedc"
+    },
+    "total_ventas": 8800.82,
+    "unidades": 153,
+    "categoria": "christmas_supplies"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdedd"
+    },
+    "total_ventas": 7528.41,
+    "unidades": 83,
+    "categoria": "tablets_printing_image"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdede"
+    },
+    "total_ventas": 6933.46,
+    "unidades": 72,
+    "categoria": "cine_photo"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdedf"
+    },
+    "total_ventas": 6034.35,
+    "unidades": 38,
+    "categoria": "music"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee0"
+    },
+    "total_ventas": 5999.39,
+    "unidades": 64,
+    "categoria": "dvds_blu_ray"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee1"
+    },
+    "total_ventas": 4639.85,
+    "unidades": 60,
+    "categoria": "books_imported"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee2"
+    },
+    "total_ventas": 4485.18,
+    "unidades": 43,
+    "categoria": "party_supplies"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee3"
+    },
+    "total_ventas": 4368.08,
+    "unidades": 38,
+    "categoria": "furniture_mattress_and_upholstery"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee4"
+    },
+    "total_ventas": 2803.64,
+    "unidades": 48,
+    "categoria": "fashio_female_clothing"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee5"
+    },
+    "total_ventas": 2119.51,
+    "unidades": 30,
+    "categoria": "fashion_sport"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee6"
+    },
+    "total_ventas": 2054.99,
+    "unidades": 14,
+    "categoria": "la_cuisine"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee7"
+    },
+    "total_ventas": 1814.01,
+    "unidades": 24,
+    "categoria": "arts_and_craftmanship"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee8"
+    },
+    "total_ventas": 1567.59,
+    "unidades": 39,
+    "categoria": "diapers_and_hygiene"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdee9"
+    },
+    "total_ventas": 1110.04,
+    "unidades": 33,
+    "categoria": "flowers"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeea"
+    },
+    "total_ventas": 760.27,
+    "unidades": 30,
+    "categoria": "home_comfort_2"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeeb"
+    },
+    "total_ventas": 730.0,
+    "unidades": 14,
+    "categoria": "cds_dvds_musicals"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeec"
+    },
+    "total_ventas": 569.85,
+    "unidades": 8,
+    "categoria": "fashion_childrens_clothes"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdeed"
+    },
+    "total_ventas": 283.28999999999996,
+    "unidades": 2,
+    "categoria": "security_and_services"
+  }
+]

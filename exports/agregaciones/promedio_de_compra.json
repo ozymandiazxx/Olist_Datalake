@@ -1,0 +1,9 @@
+[
+  {
+    "_id": {
+      "$oid": "6a4b22edf001032227cbdeee"
+    },
+    "promedio_compra": 137.75407637889444,
+    "num_pedidos": 98666
+  }
+]

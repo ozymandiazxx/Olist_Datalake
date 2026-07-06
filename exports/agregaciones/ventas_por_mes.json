@@ -1,0 +1,194 @@
+[
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde8e"
+    },
+    "total_ventas": 267.36,
+    "num_pedidos": 3,
+    "anio_mes": "2016-09"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde8f"
+    },
+    "total_ventas": 49507.66,
+    "num_pedidos": 308,
+    "anio_mes": "2016-10"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde90"
+    },
+    "total_ventas": 10.9,
+    "num_pedidos": 1,
+    "anio_mes": "2016-12"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde91"
+    },
+    "total_ventas": 120312.87,
+    "num_pedidos": 789,
+    "anio_mes": "2017-01"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde92"
+    },
+    "total_ventas": 247303.02,
+    "num_pedidos": 1733,
+    "anio_mes": "2017-02"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde93"
+    },
+    "total_ventas": 374344.3,
+    "num_pedidos": 2641,
+    "anio_mes": "2017-03"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde94"
+    },
+    "total_ventas": 359927.23,
+    "num_pedidos": 2391,
+    "anio_mes": "2017-04"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde95"
+    },
+    "total_ventas": 506071.14,
+    "num_pedidos": 3660,
+    "anio_mes": "2017-05"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde96"
+    },
+    "total_ventas": 433038.6,
+    "num_pedidos": 3217,
+    "anio_mes": "2017-06"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde97"
+    },
+    "total_ventas": 498031.48,
+    "num_pedidos": 3969,
+    "anio_mes": "2017-07"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde98"
+    },
+    "total_ventas": 573971.68,
+    "num_pedidos": 4293,
+    "anio_mes": "2017-08"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde99"
+    },
+    "total_ventas": 624401.6900000001,
+    "num_pedidos": 4243,
+    "anio_mes": "2017-09"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde9a"
+    },
+    "total_ventas": 664219.43,
+    "num_pedidos": 4568,
+    "anio_mes": "2017-10"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde9b"
+    },
+    "total_ventas": 1010271.37,
+    "num_pedidos": 7451,
+    "anio_mes": "2017-11"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde9c"
+    },
+    "total_ventas": 743914.17,
+    "num_pedidos": 5624,
+    "anio_mes": "2017-12"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde9d"
+    },
+    "total_ventas": 950030.36,
+    "num_pedidos": 7220,
+    "anio_mes": "2018-01"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde9e"
+    },
+    "total_ventas": 844178.71,
+    "num_pedidos": 6694,
+    "anio_mes": "2018-02"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbde9f"
+    },
+    "total_ventas": 983213.44,
+    "num_pedidos": 7188,
+    "anio_mes": "2018-03"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea0"
+    },
+    "total_ventas": 996647.75,
+    "num_pedidos": 6934,
+    "anio_mes": "2018-04"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea1"
+    },
+    "total_ventas": 996517.68,
+    "num_pedidos": 6853,
+    "anio_mes": "2018-05"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea2"
+    },
+    "total_ventas": 865124.31,
+    "num_pedidos": 6160,
+    "anio_mes": "2018-06"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea3"
+    },
+    "total_ventas": 895507.22,
+    "num_pedidos": 6273,
+    "anio_mes": "2018-07"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea4"
+    },
+    "total_ventas": 854686.33,
+    "num_pedidos": 6452,
+    "anio_mes": "2018-08"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22ecf001032227cbdea5"
+    },
+    "total_ventas": 145.0,
+    "num_pedidos": 1,
+    "anio_mes": "2018-09"
+  }
+]

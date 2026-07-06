@@ -1,0 +1,356 @@
+{
+  "total_documentos_reales_en_ingesta": 20000,
+  "muestra_incluida": 50,
+  "documentos": [
+    {
+      "geolocation_zip_code_prefix": "01037",
+      "geolocation_lat": "-23.54562128115268",
+      "geolocation_lng": "-46.63929204800168",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01046",
+      "geolocation_lat": "-23.546081127035535",
+      "geolocation_lng": "-46.64482029837157",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01046",
+      "geolocation_lat": "-23.54612896641469",
+      "geolocation_lng": "-46.64295148361138",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01041",
+      "geolocation_lat": "-23.5443921648681",
+      "geolocation_lng": "-46.63949930627844",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01035",
+      "geolocation_lat": "-23.541577961711493",
+      "geolocation_lng": "-46.64160722329613",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01012",
+      "geolocation_lat": "-23.547762303364266",
+      "geolocation_lng": "-46.63536053788448",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01047",
+      "geolocation_lat": "-23.546273112412678",
+      "geolocation_lng": "-46.64122516971552",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01013",
+      "geolocation_lat": "-23.546923208436723",
+      "geolocation_lng": "-46.6342636964915",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01029",
+      "geolocation_lat": "-23.543769055769133",
+      "geolocation_lng": "-46.63427784085132",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01011",
+      "geolocation_lat": "-23.547639550320632",
+      "geolocation_lng": "-46.63603162315495",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01013",
+      "geolocation_lat": "-23.547325128224376",
+      "geolocation_lng": "-46.63418378613892",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01032",
+      "geolocation_lat": "-23.53841810407414",
+      "geolocation_lng": "-46.634778375266734",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01014",
+      "geolocation_lat": "-23.546435343326205",
+      "geolocation_lng": "-46.63383023397196",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01012",
+      "geolocation_lat": "-23.548945985189434",
+      "geolocation_lng": "-46.63467113292871",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01037",
+      "geolocation_lat": "-23.545187340816042",
+      "geolocation_lng": "-46.63785524104107",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01046",
+      "geolocation_lat": "-23.546081127035535",
+      "geolocation_lng": "-46.64482029837157",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01039",
+      "geolocation_lat": "-23.541883009983316",
+      "geolocation_lng": "-46.63991946670314",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01024",
+      "geolocation_lat": "-23.541389521053937",
+      "geolocation_lng": "-46.629899087812184",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01009",
+      "geolocation_lat": "-23.54693540437998",
+      "geolocation_lng": "-46.63658792659698",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01046",
+      "geolocation_lat": "-23.545884279214015",
+      "geolocation_lng": "-46.643163191240035",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01046",
+      "geolocation_lat": "-23.545165891770928",
+      "geolocation_lng": "-46.643785796266464",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01020",
+      "geolocation_lat": "-23.55223547100232",
+      "geolocation_lng": "-46.6284406588955",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01011",
+      "geolocation_lat": "-23.546690486964888",
+      "geolocation_lng": "-46.635446958807194",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01043",
+      "geolocation_lat": "-23.546656718016017",
+      "geolocation_lng": "-46.64078762115524",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01050",
+      "geolocation_lat": "-23.549773516504185",
+      "geolocation_lng": "-46.64559900666509",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01045",
+      "geolocation_lat": "-23.541593762969626",
+      "geolocation_lng": "-46.64189378810082",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01009",
+      "geolocation_lat": "-23.545429533441073",
+      "geolocation_lng": "-46.63571531432852",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01007",
+      "geolocation_lat": "-23.550392524842728",
+      "geolocation_lng": "-46.637301640717844",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01032",
+      "geolocation_lat": "-23.5398418758395",
+      "geolocation_lng": "-46.63514797691531",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01041",
+      "geolocation_lat": "-23.543539449073783",
+      "geolocation_lng": "-46.64057731057763",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01005",
+      "geolocation_lat": "-23.549819091869107",
+      "geolocation_lng": "-46.63560588995324",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01037",
+      "geolocation_lat": "-23.546704599774962",
+      "geolocation_lng": "-46.64033633250615",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01017",
+      "geolocation_lat": "-23.55001091199737",
+      "geolocation_lng": "-46.63116636914989",
+      "geolocation_city": "são paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01046",
+      "geolocation_lat": "-23.54532011933758",
+      "geolocation_lng": "-46.64406863434122",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01019",
+      "geolocation_lat": "-23.552151883432384",
+      "geolocation_lng": "-46.63080224715792",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01032",
+      "geolocation_lat": "-23.540774688874112",
+      "geolocation_lng": "-46.63551484303775",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01017",
+      "geolocation_lat": "-23.5492954052167",
+      "geolocation_lng": "-46.63207469510652",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01050",
+      "geolocation_lat": "-23.549009406053422",
+      "geolocation_lng": "-46.642812281839745",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01050",
+      "geolocation_lat": "-23.548755593946588",
+      "geolocation_lng": "-46.642789203733535",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01027",
+      "geolocation_lat": "-23.538301166801343",
+      "geolocation_lng": "-46.63076391104508",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01050",
+      "geolocation_lat": "-23.54985418067981",
+      "geolocation_lng": "-46.643139396906825",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01013",
+      "geolocation_lat": "-23.547119249235397",
+      "geolocation_lng": "-46.634232699405686",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01033",
+      "geolocation_lat": "-23.54032130474925",
+      "geolocation_lng": "-46.636394815973325",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01009",
+      "geolocation_lat": "-23.54569153926945",
+      "geolocation_lng": "-46.635866061486446",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01046",
+      "geolocation_lat": "-23.546081127035535",
+      "geolocation_lng": "-46.64482029837157",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01050",
+      "geolocation_lat": "-23.54874766250217",
+      "geolocation_lng": "-46.64239136704376",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01032",
+      "geolocation_lat": "-23.541191476542252",
+      "geolocation_lng": "-46.63499346058632",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01020",
+      "geolocation_lat": "-23.552549496537548",
+      "geolocation_lng": "-46.63163152553523",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01006",
+      "geolocation_lat": "-23.55052430835593",
+      "geolocation_lng": "-46.63669363835193",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    },
+    {
+      "geolocation_zip_code_prefix": "01034",
+      "geolocation_lat": "-23.542391627195926",
+      "geolocation_lng": "-46.63770927785183",
+      "geolocation_city": "sao paulo",
+      "geolocation_state": "SP"
+    }
+  ]
+}

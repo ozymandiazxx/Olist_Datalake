@@ -1,0 +1,756 @@
+{
+  "total_documentos_reales": 32951,
+  "muestra_incluida": 50,
+  "documentos": [
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e89"
+      },
+      "product_id": "1e9e8ef04dbcff4541ed26657ea517e5",
+      "product_category_name": "perfumaria",
+      "product_name_lenght": 40.0,
+      "product_description_lenght": 287.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 225.0,
+      "product_length_cm": 16.0,
+      "product_height_cm": 10.0,
+      "product_width_cm": 14.0,
+      "product_category_name_en": "perfumery"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e8a"
+      },
+      "product_id": "3aa071139cb16b67ca9e5dea641aaa2f",
+      "product_category_name": "artes",
+      "product_name_lenght": 44.0,
+      "product_description_lenght": 276.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 1000.0,
+      "product_length_cm": 30.0,
+      "product_height_cm": 18.0,
+      "product_width_cm": 20.0,
+      "product_category_name_en": "art"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e8b"
+      },
+      "product_id": "96bd76ec8810374ed1b65e291975717f",
+      "product_category_name": "esporte_lazer",
+      "product_name_lenght": 46.0,
+      "product_description_lenght": 250.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 154.0,
+      "product_length_cm": 18.0,
+      "product_height_cm": 9.0,
+      "product_width_cm": 15.0,
+      "product_category_name_en": "sports_leisure"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e8c"
+      },
+      "product_id": "cef67bcfe19066a932b7673e239eb23d",
+      "product_category_name": "bebes",
+      "product_name_lenght": 27.0,
+      "product_description_lenght": 261.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 371.0,
+      "product_length_cm": 26.0,
+      "product_height_cm": 4.0,
+      "product_width_cm": 26.0,
+      "product_category_name_en": "baby"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e8d"
+      },
+      "product_id": "9dc1a7de274444849c219cff195d0b71",
+      "product_category_name": "utilidades_domesticas",
+      "product_name_lenght": 37.0,
+      "product_description_lenght": 402.0,
+      "product_photos_qty": 4.0,
+      "product_weight_g": 625.0,
+      "product_length_cm": 20.0,
+      "product_height_cm": 17.0,
+      "product_width_cm": 13.0,
+      "product_category_name_en": "housewares"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e8e"
+      },
+      "product_id": "41d3672d4792049fa1779bb35283ed13",
+      "product_category_name": "instrumentos_musicais",
+      "product_name_lenght": 60.0,
+      "product_description_lenght": 745.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 200.0,
+      "product_length_cm": 38.0,
+      "product_height_cm": 5.0,
+      "product_width_cm": 11.0,
+      "product_category_name_en": "musical_instruments"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e8f"
+      },
+      "product_id": "732bd381ad09e530fe0a5f457d81becb",
+      "product_category_name": "cool_stuff",
+      "product_name_lenght": 56.0,
+      "product_description_lenght": 1272.0,
+      "product_photos_qty": 4.0,
+      "product_weight_g": 18350.0,
+      "product_length_cm": 70.0,
+      "product_height_cm": 24.0,
+      "product_width_cm": 44.0,
+      "product_category_name_en": "cool_stuff"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e90"
+      },
+      "product_id": "2548af3e6e77a690cf3eb6368e9ab61e",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 56.0,
+      "product_description_lenght": 184.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 900.0,
+      "product_length_cm": 40.0,
+      "product_height_cm": 8.0,
+      "product_width_cm": 40.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e91"
+      },
+      "product_id": "37cc742be07708b53a98702e77a21a02",
+      "product_category_name": "eletrodomesticos",
+      "product_name_lenght": 57.0,
+      "product_description_lenght": 163.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 400.0,
+      "product_length_cm": 27.0,
+      "product_height_cm": 13.0,
+      "product_width_cm": 17.0,
+      "product_category_name_en": "home_appliances"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e92"
+      },
+      "product_id": "8c92109888e8cdf9d66dc7e463025574",
+      "product_category_name": "brinquedos",
+      "product_name_lenght": 36.0,
+      "product_description_lenght": 1156.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 600.0,
+      "product_length_cm": 17.0,
+      "product_height_cm": 10.0,
+      "product_width_cm": 12.0,
+      "product_category_name_en": "toys"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e93"
+      },
+      "product_id": "14aa47b7fe5c25522b47b4b29c98dcb9",
+      "product_category_name": "cama_mesa_banho",
+      "product_name_lenght": 54.0,
+      "product_description_lenght": 630.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 1100.0,
+      "product_length_cm": 16.0,
+      "product_height_cm": 10.0,
+      "product_width_cm": 16.0,
+      "product_category_name_en": "bed_bath_table"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e94"
+      },
+      "product_id": "03b63c5fc16691530586ae020c345514",
+      "product_category_name": "bebes",
+      "product_name_lenght": 49.0,
+      "product_description_lenght": 728.0,
+      "product_photos_qty": 4.0,
+      "product_weight_g": 7150.0,
+      "product_length_cm": 50.0,
+      "product_height_cm": 19.0,
+      "product_width_cm": 45.0,
+      "product_category_name_en": "baby"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e95"
+      },
+      "product_id": "cf55509ea8edaaac1d28fdb16e48fc22",
+      "product_category_name": "instrumentos_musicais",
+      "product_name_lenght": 43.0,
+      "product_description_lenght": 1827.0,
+      "product_photos_qty": 3.0,
+      "product_weight_g": 250.0,
+      "product_length_cm": 17.0,
+      "product_height_cm": 7.0,
+      "product_width_cm": 17.0,
+      "product_category_name_en": "musical_instruments"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e96"
+      },
+      "product_id": "7bb6f29c2be57716194f96496660c7c2",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 51.0,
+      "product_description_lenght": 2083.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 600.0,
+      "product_length_cm": 68.0,
+      "product_height_cm": 11.0,
+      "product_width_cm": 13.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e97"
+      },
+      "product_id": "eb31436580a610f202c859463d8c7415",
+      "product_category_name": "construcao_ferramentas_seguranca",
+      "product_name_lenght": 59.0,
+      "product_description_lenght": 1602.0,
+      "product_photos_qty": 4.0,
+      "product_weight_g": 200.0,
+      "product_length_cm": 17.0,
+      "product_height_cm": 7.0,
+      "product_width_cm": 17.0,
+      "product_category_name_en": "construction_tools_safety"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e98"
+      },
+      "product_id": "3bb7f144022e6732727d8d838a7b13b3",
+      "product_category_name": "esporte_lazer",
+      "product_name_lenght": 22.0,
+      "product_description_lenght": 3021.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 800.0,
+      "product_length_cm": 16.0,
+      "product_height_cm": 2.0,
+      "product_width_cm": 11.0,
+      "product_category_name_en": "sports_leisure"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e99"
+      },
+      "product_id": "6a2fb4dd53d2cdb88e0432f1284a004c",
+      "product_category_name": "perfumaria",
+      "product_name_lenght": 39.0,
+      "product_description_lenght": 346.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 400.0,
+      "product_length_cm": 27.0,
+      "product_height_cm": 5.0,
+      "product_width_cm": 20.0,
+      "product_category_name_en": "perfumery"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e9a"
+      },
+      "product_id": "a1b71017a84f92fd8da4aeefba108a24",
+      "product_category_name": "informatica_acessorios",
+      "product_name_lenght": 59.0,
+      "product_description_lenght": 636.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 900.0,
+      "product_length_cm": 40.0,
+      "product_height_cm": 15.0,
+      "product_width_cm": 20.0,
+      "product_category_name_en": "computers_accessories"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e9b"
+      },
+      "product_id": "a0736b92e52f6cead290e30b578413b6",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 56.0,
+      "product_description_lenght": 296.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 1700.0,
+      "product_length_cm": 100.0,
+      "product_height_cm": 7.0,
+      "product_width_cm": 15.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e9c"
+      },
+      "product_id": "f53103a77d9cf245e579ea37e5ec51f0",
+      "product_category_name": "cama_mesa_banho",
+      "product_name_lenght": 52.0,
+      "product_description_lenght": 206.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 500.0,
+      "product_length_cm": 16.0,
+      "product_height_cm": 10.0,
+      "product_width_cm": 16.0,
+      "product_category_name_en": "bed_bath_table"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e9d"
+      },
+      "product_id": "1c1890ba1779090cd54008a3c3302921",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 27.0,
+      "product_description_lenght": 158.0,
+      "product_photos_qty": 4.0,
+      "product_weight_g": 2550.0,
+      "product_length_cm": 29.0,
+      "product_height_cm": 24.0,
+      "product_width_cm": 45.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e9e"
+      },
+      "product_id": "518ef5de2c2b3a255e326a4594ba15d9",
+      "product_category_name": "cama_mesa_banho",
+      "product_name_lenght": 27.0,
+      "product_description_lenght": 329.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 800.0,
+      "product_length_cm": 36.0,
+      "product_height_cm": 8.0,
+      "product_width_cm": 16.0,
+      "product_category_name_en": "bed_bath_table"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69e9f"
+      },
+      "product_id": "e3e020af31d4d89d2602272b315c3f6e",
+      "product_category_name": "beleza_saude",
+      "product_name_lenght": 58.0,
+      "product_description_lenght": 1987.0,
+      "product_photos_qty": 3.0,
+      "product_weight_g": 75.0,
+      "product_length_cm": 21.0,
+      "product_height_cm": 7.0,
+      "product_width_cm": 13.0,
+      "product_category_name_en": "health_beauty"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea0"
+      },
+      "product_id": "8b41fbc2b984a12030090112324d1bc4",
+      "product_category_name": "bebes",
+      "product_name_lenght": 55.0,
+      "product_description_lenght": 1627.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 500.0,
+      "product_length_cm": 20.0,
+      "product_height_cm": 13.0,
+      "product_width_cm": 13.0,
+      "product_category_name_en": "baby"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea1"
+      },
+      "product_id": "d03bd02af9fff4b98f1c972315e5e9ef",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 56.0,
+      "product_description_lenght": 209.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 1800.0,
+      "product_length_cm": 40.0,
+      "product_height_cm": 10.0,
+      "product_width_cm": 30.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea2"
+      },
+      "product_id": "8ba4f2a4ae695d26e5626c1bf710975e",
+      "product_category_name": "utilidades_domesticas",
+      "product_name_lenght": 52.0,
+      "product_description_lenght": 968.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 900.0,
+      "product_length_cm": 50.0,
+      "product_height_cm": 5.0,
+      "product_width_cm": 50.0,
+      "product_category_name_en": "housewares"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea3"
+      },
+      "product_id": "f6574524b07d5bb753bab6f35abe2d06",
+      "product_category_name": "malas_acessorios",
+      "product_name_lenght": 52.0,
+      "product_description_lenght": 573.0,
+      "product_photos_qty": 5.0,
+      "product_weight_g": 3600.0,
+      "product_length_cm": 35.0,
+      "product_height_cm": 25.0,
+      "product_width_cm": 50.0,
+      "product_category_name_en": "luggage_accessories"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea4"
+      },
+      "product_id": "c78b767da00efb70c1bcccab87c28cd5",
+      "product_category_name": "informatica_acessorios",
+      "product_name_lenght": 35.0,
+      "product_description_lenght": 1101.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 300.0,
+      "product_length_cm": 42.0,
+      "product_height_cm": 2.0,
+      "product_width_cm": 30.0,
+      "product_category_name_en": "computers_accessories"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea5"
+      },
+      "product_id": "a0253d43394dd4da9a5d7b1f546f1a32",
+      "product_category_name": "informatica_acessorios",
+      "product_name_lenght": 59.0,
+      "product_description_lenght": 1890.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 740.0,
+      "product_length_cm": 23.0,
+      "product_height_cm": 13.0,
+      "product_width_cm": 13.0,
+      "product_category_name_en": "computers_accessories"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea6"
+      },
+      "product_id": "051b9ff13dd55c0a6655a15ff296f80d",
+      "product_category_name": "esporte_lazer",
+      "product_name_lenght": 50.0,
+      "product_description_lenght": 529.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 3600.0,
+      "product_length_cm": 62.0,
+      "product_height_cm": 23.0,
+      "product_width_cm": 23.0,
+      "product_category_name_en": "sports_leisure"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea7"
+      },
+      "product_id": "47859fca9dd7485cbd93c3e8993bb74f",
+      "product_category_name": "cama_mesa_banho",
+      "product_name_lenght": 45.0,
+      "product_description_lenght": 206.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 650.0,
+      "product_length_cm": 16.0,
+      "product_height_cm": 10.0,
+      "product_width_cm": 16.0,
+      "product_category_name_en": "bed_bath_table"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea8"
+      },
+      "product_id": "e1d1d22e9f8122a4ec1533b032c12562",
+      "product_category_name": "ferramentas_jardim",
+      "product_name_lenght": 49.0,
+      "product_description_lenght": 1163.0,
+      "product_photos_qty": 9.0,
+      "product_weight_g": 2150.0,
+      "product_length_cm": 70.0,
+      "product_height_cm": 8.0,
+      "product_width_cm": 34.0,
+      "product_category_name_en": "garden_tools"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ea9"
+      },
+      "product_id": "20e37962088a4061d3578def47a8648b",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 60.0,
+      "product_description_lenght": 208.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 800.0,
+      "product_length_cm": 40.0,
+      "product_height_cm": 10.0,
+      "product_width_cm": 34.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eaa"
+      },
+      "product_id": "1eba879220bd0981a0e2fbab499ed4e1",
+      "product_category_name": "moveis_escritorio",
+      "product_name_lenght": 57.0,
+      "product_description_lenght": 476.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 8950.0,
+      "product_length_cm": 52.0,
+      "product_height_cm": 51.0,
+      "product_width_cm": 17.0,
+      "product_category_name_en": "office_furniture"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eab"
+      },
+      "product_id": "ce5b91848b91118daffb3af53b747475",
+      "product_category_name": "esporte_lazer",
+      "product_name_lenght": 50.0,
+      "product_description_lenght": 699.0,
+      "product_photos_qty": 4.0,
+      "product_weight_g": 1388.0,
+      "product_length_cm": 34.0,
+      "product_height_cm": 9.0,
+      "product_width_cm": 31.0,
+      "product_category_name_en": "sports_leisure"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eac"
+      },
+      "product_id": "5370b82a213393979691c98074265584",
+      "product_category_name": "bebes",
+      "product_name_lenght": 52.0,
+      "product_description_lenght": 708.0,
+      "product_photos_qty": 9.0,
+      "product_weight_g": 7950.0,
+      "product_length_cm": 33.0,
+      "product_height_cm": 30.0,
+      "product_width_cm": 44.0,
+      "product_category_name_en": "baby"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69ead"
+      },
+      "product_id": "b8dac5113b06a97e64943234522572b9",
+      "product_category_name": "automotivo",
+      "product_name_lenght": 43.0,
+      "product_description_lenght": 1062.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 6000.0,
+      "product_length_cm": 87.0,
+      "product_height_cm": 3.0,
+      "product_width_cm": 42.0,
+      "product_category_name_en": "auto"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eae"
+      },
+      "product_id": "750cf819d127191920eda79a4b6fb479",
+      "product_category_name": "eletronicos",
+      "product_name_lenght": 31.0,
+      "product_description_lenght": 806.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 263.0,
+      "product_length_cm": 18.0,
+      "product_height_cm": 12.0,
+      "product_width_cm": 16.0,
+      "product_category_name_en": "electronics"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eaf"
+      },
+      "product_id": "e6af694343b45b56304ad91974a110b9",
+      "product_category_name": "utilidades_domesticas",
+      "product_name_lenght": 37.0,
+      "product_description_lenght": 352.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 3900.0,
+      "product_length_cm": 19.0,
+      "product_height_cm": 20.0,
+      "product_width_cm": 15.0,
+      "product_category_name_en": "housewares"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb0"
+      },
+      "product_id": "680874c570dad71c0a2844cfbf417054",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 47.0,
+      "product_description_lenght": 502.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 600.0,
+      "product_length_cm": 25.0,
+      "product_height_cm": 25.0,
+      "product_width_cm": 25.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb1"
+      },
+      "product_id": "8b3a9476f74f5297f7ff0ec6d95fe1ea",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 63.0,
+      "product_description_lenght": 254.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 2050.0,
+      "product_length_cm": 49.0,
+      "product_height_cm": 13.0,
+      "product_width_cm": 41.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb2"
+      },
+      "product_id": "1c6fb703c624b381a20f21f757694866",
+      "product_category_name": "brinquedos",
+      "product_name_lenght": 33.0,
+      "product_description_lenght": 471.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 725.0,
+      "product_length_cm": 22.0,
+      "product_height_cm": 17.0,
+      "product_width_cm": 15.0,
+      "product_category_name_en": "toys"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb3"
+      },
+      "product_id": "db46052aed7dff59ba38cf2fe29b87f9",
+      "product_category_name": "cama_mesa_banho",
+      "product_name_lenght": 56.0,
+      "product_description_lenght": 509.0,
+      "product_photos_qty": 4.0,
+      "product_weight_g": 6350.0,
+      "product_length_cm": 45.0,
+      "product_height_cm": 15.0,
+      "product_width_cm": 35.0,
+      "product_category_name_en": "bed_bath_table"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb4"
+      },
+      "product_id": "b864b103180d5a6a3f830e67f93e8735",
+      "product_category_name": "bebes",
+      "product_name_lenght": 47.0,
+      "product_description_lenght": 980.0,
+      "product_photos_qty": 4.0,
+      "product_weight_g": 600.0,
+      "product_length_cm": 70.0,
+      "product_height_cm": 11.0,
+      "product_width_cm": 11.0,
+      "product_category_name_en": "baby"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb5"
+      },
+      "product_id": "7a8dac4aaa16bc642e4df33adcf03303",
+      "product_category_name": "cool_stuff",
+      "product_name_lenght": 38.0,
+      "product_description_lenght": 1701.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 11750.0,
+      "product_length_cm": 18.0,
+      "product_height_cm": 40.0,
+      "product_width_cm": 79.0,
+      "product_category_name_en": "cool_stuff"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb6"
+      },
+      "product_id": "83b9bc6aae6f527ff6aafb9e01d6cbf3",
+      "product_category_name": "brinquedos",
+      "product_name_lenght": 20.0,
+      "product_description_lenght": 866.0,
+      "product_photos_qty": 3.0,
+      "product_weight_g": 2550.0,
+      "product_length_cm": 22.0,
+      "product_height_cm": 32.0,
+      "product_width_cm": 38.0,
+      "product_category_name_en": "toys"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb7"
+      },
+      "product_id": "5f504b3a1c75b73d6151be81eb05bdc9",
+      "product_category_name": "cool_stuff",
+      "product_name_lenght": 38.0,
+      "product_description_lenght": 1176.0,
+      "product_photos_qty": 3.0,
+      "product_weight_g": 15350.0,
+      "product_length_cm": 47.0,
+      "product_height_cm": 40.0,
+      "product_width_cm": 47.0,
+      "product_category_name_en": "cool_stuff"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb8"
+      },
+      "product_id": "bbf920aa6ac72007a726e6f419156f8f",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 42.0,
+      "product_description_lenght": 303.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 1300.0,
+      "product_length_cm": 25.0,
+      "product_height_cm": 16.0,
+      "product_width_cm": 25.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eb9"
+      },
+      "product_id": "c3b7e4d83e530c27a8e6368296aece48",
+      "product_category_name": "moveis_decoracao",
+      "product_name_lenght": 60.0,
+      "product_description_lenght": 1972.0,
+      "product_photos_qty": 2.0,
+      "product_weight_g": 850.0,
+      "product_length_cm": 69.0,
+      "product_height_cm": 11.0,
+      "product_width_cm": 11.0,
+      "product_category_name_en": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fd26f33cb3685d69eba"
+      },
+      "product_id": "c5d8079278e912d7e3b6beb48ecb56e8",
+      "product_category_name": "beleza_saude",
+      "product_name_lenght": 60.0,
+      "product_description_lenght": 330.0,
+      "product_photos_qty": 1.0,
+      "product_weight_g": 1300.0,
+      "product_length_cm": 19.0,
+      "product_height_cm": 28.0,
+      "product_width_cm": 17.0,
+      "product_category_name_en": "health_beauty"
+    }
+  ]
+}

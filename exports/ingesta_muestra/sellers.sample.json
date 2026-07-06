@@ -1,0 +1,306 @@
+{
+  "total_documentos_reales_en_ingesta": 3095,
+  "muestra_incluida": 50,
+  "documentos": [
+    {
+      "seller_id": "3442f8959a84dea7ee197c632cb2df15",
+      "seller_zip_code_prefix": "13023",
+      "seller_city": "campinas",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "d1b65fc7debc3361ea86b5f14c68d2e2",
+      "seller_zip_code_prefix": "13844",
+      "seller_city": "mogi guacu",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "ce3ad9de960102d0677a81f5d0bb7b2d",
+      "seller_zip_code_prefix": "20031",
+      "seller_city": "rio de janeiro",
+      "seller_state": "RJ"
+    },
+    {
+      "seller_id": "c0f3eea2e14555b6faeea3dd58c1b1c3",
+      "seller_zip_code_prefix": "04195",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "51a04a8a6bdcb23deccc82b0b80742cf",
+      "seller_zip_code_prefix": "12914",
+      "seller_city": "braganca paulista",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "c240c4061717ac1806ae6ee72be3533b",
+      "seller_zip_code_prefix": "20920",
+      "seller_city": "rio de janeiro",
+      "seller_state": "RJ"
+    },
+    {
+      "seller_id": "e49c26c3edfa46d227d5121a6b6e4d37",
+      "seller_zip_code_prefix": "55325",
+      "seller_city": "brejao",
+      "seller_state": "PE"
+    },
+    {
+      "seller_id": "1b938a7ec6ac5061a66a3766e0e75f90",
+      "seller_zip_code_prefix": "16304",
+      "seller_city": "penapolis",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "768a86e36ad6aae3d03ee3c6433d61df",
+      "seller_zip_code_prefix": "01529",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "ccc4bbb5f32a6ab2b7066a4130f114e3",
+      "seller_zip_code_prefix": "80310",
+      "seller_city": "curitiba",
+      "seller_state": "PR"
+    },
+    {
+      "seller_id": "8cb7c5ddf41f4d506eba76e9a4702a25",
+      "seller_zip_code_prefix": "75110",
+      "seller_city": "anapolis",
+      "seller_state": "GO"
+    },
+    {
+      "seller_id": "a7a9b880c49781da66651ccf4ba9ac38",
+      "seller_zip_code_prefix": "13530",
+      "seller_city": "itirapina",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "8bd0f31cf0a614c658f6763bd02dea69",
+      "seller_zip_code_prefix": "01222",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "05a48cc8859962767935ab9087417fbb",
+      "seller_zip_code_prefix": "05372",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "7b8e8ec35bad4b0ef7e3963650b0a87b",
+      "seller_zip_code_prefix": "88705",
+      "seller_city": "tubarao",
+      "seller_state": "SC"
+    },
+    {
+      "seller_id": "1444c08e64d55fb3c25f0f09c07ffcf2",
+      "seller_zip_code_prefix": "42738",
+      "seller_city": "lauro de freitas",
+      "seller_state": "BA"
+    },
+    {
+      "seller_id": "166e8f1381e09651983c38b1f6f91c11",
+      "seller_zip_code_prefix": "88780",
+      "seller_city": "imbituba",
+      "seller_state": "SC"
+    },
+    {
+      "seller_id": "e38db885400cd35c71dfd162f2c1dbcf",
+      "seller_zip_code_prefix": "70740",
+      "seller_city": "brasilia",
+      "seller_state": "DF"
+    },
+    {
+      "seller_id": "d2e753bb80b7d4faa77483ed00edc8ca",
+      "seller_zip_code_prefix": "45810",
+      "seller_city": "porto seguro",
+      "seller_state": "BA"
+    },
+    {
+      "seller_id": "f9ec7093df3a7b346b7bcf7864069ca3",
+      "seller_zip_code_prefix": "05138",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "4e6015589b781adaa5ce7f1892d06bb1",
+      "seller_zip_code_prefix": "11440",
+      "seller_city": "guaruja",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "4cf490a58259286ada5ba8525ba9e84a",
+      "seller_zip_code_prefix": "14910",
+      "seller_city": "tabatinga",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "f7496d659ca9fdaf323c0aae84176632",
+      "seller_zip_code_prefix": "04156",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "2ff97219cb8622eaf3cd89b7d9c09824",
+      "seller_zip_code_prefix": "13320",
+      "seller_city": "salto",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "8bd0e3abda539b9479c4b44a691be1ec",
+      "seller_zip_code_prefix": "98910",
+      "seller_city": "tres de maio",
+      "seller_state": "RS"
+    },
+    {
+      "seller_id": "2a1348e9addc1af5aaa619b1a3679d6b",
+      "seller_zip_code_prefix": "30494",
+      "seller_city": "belo horizonte",
+      "seller_state": "MG"
+    },
+    {
+      "seller_id": "2078fe5066350e7d220c0ad3a3bbc6c1",
+      "seller_zip_code_prefix": "86707",
+      "seller_city": "arapongas",
+      "seller_state": "PR"
+    },
+    {
+      "seller_id": "116ccb1a1604bc88e4d234a8c23f33de",
+      "seller_zip_code_prefix": "09850",
+      "seller_city": "sao bernardo do campo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "430315b7bb4b6e4b3c978f9dfa9b0558",
+      "seller_zip_code_prefix": "04857",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "406822777a0b9eb5c50e442dd4cd3ec5",
+      "seller_zip_code_prefix": "18500",
+      "seller_city": "tatui",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "4dbd95a08b31ede5c82d3f861cb1ce1a",
+      "seller_zip_code_prefix": "80210",
+      "seller_city": "curitiba",
+      "seller_state": "PR"
+    },
+    {
+      "seller_id": "e9e446d01bd10a97a8ffcfc4a3a20cb2",
+      "seller_zip_code_prefix": "02261",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "d52cbce9845184537284a23c3bc3da0e",
+      "seller_zip_code_prefix": "88495",
+      "seller_city": "garopaba",
+      "seller_state": "SC"
+    },
+    {
+      "seller_id": "d9a84e1403de8da0c3aa531d6d108ba6",
+      "seller_zip_code_prefix": "03562",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "9c690ceacd5c66731bf443ea810195cb",
+      "seller_zip_code_prefix": "37650",
+      "seller_city": "camanducaia",
+      "seller_state": "MG"
+    },
+    {
+      "seller_id": "1f9ab4708f3056ede07124aad39a2554",
+      "seller_zip_code_prefix": "17602",
+      "seller_city": "tupa",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "1961c3e1272bfeceb05d0b78b5bbfdaf",
+      "seller_zip_code_prefix": "07241",
+      "seller_city": "guarulhos",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "d3e7d37c0df9aef383f3f2a15b0dddfb",
+      "seller_zip_code_prefix": "83050",
+      "seller_city": "sao jose dos pinhais",
+      "seller_state": "PR"
+    },
+    {
+      "seller_id": "ec2e006556300a79a5a91e4876ab3a56",
+      "seller_zip_code_prefix": "03445",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "b2a6d334e2833acea353624840e25a0e",
+      "seller_zip_code_prefix": "04133",
+      "seller_city": "sao paulo",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "d3674f271c91f824f82d24d92011f669",
+      "seller_zip_code_prefix": "72233",
+      "seller_city": "brasilia",
+      "seller_state": "DF"
+    },
+    {
+      "seller_id": "768de2a4fc06aacecb9a586ccc30746a",
+      "seller_zip_code_prefix": "70645",
+      "seller_city": "brasilia",
+      "seller_state": "DF"
+    },
+    {
+      "seller_id": "a81466620e46a6970b22ef40379fdfc9",
+      "seller_zip_code_prefix": "88730",
+      "seller_city": "sao ludgero",
+      "seller_state": "SC"
+    },
+    {
+      "seller_id": "5c030029b5916fed0986310385ec9009",
+      "seller_zip_code_prefix": "88075",
+      "seller_city": "sao jose",
+      "seller_state": "SC"
+    },
+    {
+      "seller_id": "c0f783394e37cd9c9d7f5f81141450fa",
+      "seller_zip_code_prefix": "13416",
+      "seller_city": "piracicaba",
+      "seller_state": "SP"
+    },
+    {
+      "seller_id": "c353f8fc0ce8344999f17d578eb69a5e",
+      "seller_zip_code_prefix": "90850",
+      "seller_city": "porto alegre",
+      "seller_state": "RS"
+    },
+    {
+      "seller_id": "8444e55c1f13cd5c179851e5ca5ebd00",
+      "seller_zip_code_prefix": "37584",
+      "seller_city": "congonhal",
+      "seller_state": "MG"
+    },
+    {
+      "seller_id": "28a26ebce31d5918b181ede016fd693b",
+      "seller_zip_code_prefix": "31950",
+      "seller_city": "belo horizonte",
+      "seller_state": "MG"
+    },
+    {
+      "seller_id": "41ab63a91b8b264e8c8780368bf1dd5b",
+      "seller_zip_code_prefix": "31555",
+      "seller_city": "belo horizonte",
+      "seller_state": "MG"
+    },
+    {
+      "seller_id": "8759e7aedd644f487315e5860962f162",
+      "seller_zip_code_prefix": "09251",
+      "seller_city": "santo andre",
+      "seller_state": "SP"
+    }
+  ]
+}

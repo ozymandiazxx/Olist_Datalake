@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdeef"
+    },
+    "total_ventas": 229472.63,
+    "unidades": 1156,
+    "num_pedidos": 1132,
+    "seller_id": "4869f7a5dfa277a7dca6462dcf3b52b2"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef0"
+    },
+    "total_ventas": 222776.05,
+    "unidades": 410,
+    "num_pedidos": 358,
+    "seller_id": "53243585a1d6dc2643021fd1853d8905"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef1"
+    },
+    "total_ventas": 200472.92,
+    "unidades": 1987,
+    "num_pedidos": 1806,
+    "seller_id": "4a3ca9315b744ce9f8e9374361493884"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef2"
+    },
+    "total_ventas": 194042.03,
+    "unidades": 586,
+    "num_pedidos": 585,
+    "seller_id": "fa1c13f2614d7b5c4749cbc52fecda94"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef3"
+    },
+    "total_ventas": 187923.89,
+    "unidades": 1364,
+    "num_pedidos": 982,
+    "seller_id": "7c67e1448b00f6e969d365cea6b010ab"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef4"
+    },
+    "total_ventas": 176431.87,
+    "unidades": 340,
+    "num_pedidos": 336,
+    "seller_id": "7e93a43ef30c4f03f38b393420bc753a"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef5"
+    },
+    "total_ventas": 160236.57,
+    "unidades": 1551,
+    "num_pedidos": 1314,
+    "seller_id": "da8622b14eb17ae2831f4ac5b9dab84a"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef6"
+    },
+    "total_ventas": 141745.53,
+    "unidades": 1171,
+    "num_pedidos": 1160,
+    "seller_id": "7a67c85e85bb2ce8582c35f2203ad736"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef7"
+    },
+    "total_ventas": 138968.55,
+    "unidades": 1428,
+    "num_pedidos": 915,
+    "seller_id": "1025f0e2d44d7041d6cf58b6550e0bfa"
+  },
+  {
+    "_id": {
+      "$oid": "6a4b22eef001032227cbdef8"
+    },
+    "total_ventas": 135171.7,
+    "unidades": 1499,
+    "num_pedidos": 1287,
+    "seller_id": "955fee9216a65b617aa5c0531780ce60"
+  }
+]

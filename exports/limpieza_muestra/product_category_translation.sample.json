@@ -1,0 +1,356 @@
+{
+  "total_documentos_reales": 71,
+  "muestra_incluida": 50,
+  "documentos": [
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e42"
+      },
+      "product_category_name": "beleza_saude",
+      "product_category_name_english": "health_beauty"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e43"
+      },
+      "product_category_name": "informatica_acessorios",
+      "product_category_name_english": "computers_accessories"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e44"
+      },
+      "product_category_name": "automotivo",
+      "product_category_name_english": "auto"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e45"
+      },
+      "product_category_name": "cama_mesa_banho",
+      "product_category_name_english": "bed_bath_table"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e46"
+      },
+      "product_category_name": "moveis_decoracao",
+      "product_category_name_english": "furniture_decor"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e47"
+      },
+      "product_category_name": "esporte_lazer",
+      "product_category_name_english": "sports_leisure"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e48"
+      },
+      "product_category_name": "perfumaria",
+      "product_category_name_english": "perfumery"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e49"
+      },
+      "product_category_name": "utilidades_domesticas",
+      "product_category_name_english": "housewares"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e4a"
+      },
+      "product_category_name": "telefonia",
+      "product_category_name_english": "telephony"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e4b"
+      },
+      "product_category_name": "relogios_presentes",
+      "product_category_name_english": "watches_gifts"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e4c"
+      },
+      "product_category_name": "alimentos_bebidas",
+      "product_category_name_english": "food_drink"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e4d"
+      },
+      "product_category_name": "bebes",
+      "product_category_name_english": "baby"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e4e"
+      },
+      "product_category_name": "papelaria",
+      "product_category_name_english": "stationery"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e4f"
+      },
+      "product_category_name": "tablets_impressao_imagem",
+      "product_category_name_english": "tablets_printing_image"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e50"
+      },
+      "product_category_name": "brinquedos",
+      "product_category_name_english": "toys"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e51"
+      },
+      "product_category_name": "telefonia_fixa",
+      "product_category_name_english": "fixed_telephony"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e52"
+      },
+      "product_category_name": "ferramentas_jardim",
+      "product_category_name_english": "garden_tools"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e53"
+      },
+      "product_category_name": "fashion_bolsas_e_acessorios",
+      "product_category_name_english": "fashion_bags_accessories"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e54"
+      },
+      "product_category_name": "eletroportateis",
+      "product_category_name_english": "small_appliances"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e55"
+      },
+      "product_category_name": "consoles_games",
+      "product_category_name_english": "consoles_games"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e56"
+      },
+      "product_category_name": "audio",
+      "product_category_name_english": "audio"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e57"
+      },
+      "product_category_name": "fashion_calcados",
+      "product_category_name_english": "fashion_shoes"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e58"
+      },
+      "product_category_name": "cool_stuff",
+      "product_category_name_english": "cool_stuff"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e59"
+      },
+      "product_category_name": "malas_acessorios",
+      "product_category_name_english": "luggage_accessories"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e5a"
+      },
+      "product_category_name": "climatizacao",
+      "product_category_name_english": "air_conditioning"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e5b"
+      },
+      "product_category_name": "construcao_ferramentas_construcao",
+      "product_category_name_english": "construction_tools_construction"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e5c"
+      },
+      "product_category_name": "moveis_cozinha_area_de_servico_jantar_e_jardim",
+      "product_category_name_english": "kitchen_dining_laundry_garden_furniture"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e5d"
+      },
+      "product_category_name": "construcao_ferramentas_jardim",
+      "product_category_name_english": "costruction_tools_garden"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e5e"
+      },
+      "product_category_name": "fashion_roupa_masculina",
+      "product_category_name_english": "fashion_male_clothing"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e5f"
+      },
+      "product_category_name": "pet_shop",
+      "product_category_name_english": "pet_shop"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e60"
+      },
+      "product_category_name": "moveis_escritorio",
+      "product_category_name_english": "office_furniture"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e61"
+      },
+      "product_category_name": "market_place",
+      "product_category_name_english": "market_place"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e62"
+      },
+      "product_category_name": "eletronicos",
+      "product_category_name_english": "electronics"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e63"
+      },
+      "product_category_name": "eletrodomesticos",
+      "product_category_name_english": "home_appliances"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e64"
+      },
+      "product_category_name": "artigos_de_festas",
+      "product_category_name_english": "party_supplies"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e65"
+      },
+      "product_category_name": "casa_conforto",
+      "product_category_name_english": "home_confort"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e66"
+      },
+      "product_category_name": "construcao_ferramentas_ferramentas",
+      "product_category_name_english": "costruction_tools_tools"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e67"
+      },
+      "product_category_name": "agro_industria_e_comercio",
+      "product_category_name_english": "agro_industry_and_commerce"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e68"
+      },
+      "product_category_name": "moveis_colchao_e_estofado",
+      "product_category_name_english": "furniture_mattress_and_upholstery"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e69"
+      },
+      "product_category_name": "livros_tecnicos",
+      "product_category_name_english": "books_technical"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e6a"
+      },
+      "product_category_name": "casa_construcao",
+      "product_category_name_english": "home_construction"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e6b"
+      },
+      "product_category_name": "instrumentos_musicais",
+      "product_category_name_english": "musical_instruments"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e6c"
+      },
+      "product_category_name": "moveis_sala",
+      "product_category_name_english": "furniture_living_room"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e6d"
+      },
+      "product_category_name": "construcao_ferramentas_iluminacao",
+      "product_category_name_english": "construction_tools_lights"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e6e"
+      },
+      "product_category_name": "industria_comercio_e_negocios",
+      "product_category_name_english": "industry_commerce_and_business"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e6f"
+      },
+      "product_category_name": "alimentos",
+      "product_category_name_english": "food"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e70"
+      },
+      "product_category_name": "artes",
+      "product_category_name_english": "art"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e71"
+      },
+      "product_category_name": "moveis_quarto",
+      "product_category_name_english": "furniture_bedroom"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e72"
+      },
+      "product_category_name": "livros_interesse_geral",
+      "product_category_name_english": "books_general_interest"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fce6f33cb3685d69e73"
+      },
+      "product_category_name": "construcao_ferramentas_seguranca",
+      "product_category_name_english": "construction_tools_safety"
+    }
+  ]
+}

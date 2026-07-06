@@ -1,0 +1,356 @@
+{
+  "total_documentos_reales_en_ingesta": 103886,
+  "muestra_incluida": 50,
+  "documentos": [
+    {
+      "order_id": "b81ef226f3fe1789b1e8b2acac839d17",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "8",
+      "payment_value": "99.33"
+    },
+    {
+      "order_id": "a9810da82917af2d9aefd1278f1dcfa0",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "24.39"
+    },
+    {
+      "order_id": "25e8ea4e93396b6fa0d3dd708e76c1bd",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "65.71"
+    },
+    {
+      "order_id": "ba78997921bbcdc1373bb41e913ab953",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "8",
+      "payment_value": "107.78"
+    },
+    {
+      "order_id": "42fdf880ba16b47b59251dd489d4441a",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "2",
+      "payment_value": "128.45"
+    },
+    {
+      "order_id": "298fcdf1f73eb413e4d26d01b25bc1cd",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "2",
+      "payment_value": "96.12"
+    },
+    {
+      "order_id": "771ee386b001f06208a7419e4fc1bbd7",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "81.16"
+    },
+    {
+      "order_id": "3d7239c394a212faae122962df514ac7",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "3",
+      "payment_value": "51.84"
+    },
+    {
+      "order_id": "1f78449c87a54faf9e96e88ba1491fa9",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "6",
+      "payment_value": "341.09"
+    },
+    {
+      "order_id": "0573b5e23cbd798006520e1d5b4c6714",
+      "payment_sequential": "1",
+      "payment_type": "boleto",
+      "payment_installments": "1",
+      "payment_value": "51.95"
+    },
+    {
+      "order_id": "d88e0d5fa41661ce03cf6cf336527646",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "8",
+      "payment_value": "188.73"
+    },
+    {
+      "order_id": "2480f727e869fdeb397244a21b721b67",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "141.90"
+    },
+    {
+      "order_id": "616105c9352a9668c38303ad44e056cd",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "75.78"
+    },
+    {
+      "order_id": "cf95215a722f3ebf29e6bbab87a29e61",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "5",
+      "payment_value": "102.66"
+    },
+    {
+      "order_id": "769214176682788a92801d8907fa1b40",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "4",
+      "payment_value": "105.28"
+    },
+    {
+      "order_id": "12e5cfe0e4716b59afb0e0f4a3bd6570",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "10",
+      "payment_value": "157.45"
+    },
+    {
+      "order_id": "61059985a6fc0ad64e95d9944caacdad",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "132.04"
+    },
+    {
+      "order_id": "79da3f5fe31ad1e454f06f95dc032ad5",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "98.94"
+    },
+    {
+      "order_id": "8ac09207f415d55acff302df7d6a895c",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "4",
+      "payment_value": "244.15"
+    },
+    {
+      "order_id": "b2349a3f20dfbeef62e7b31baa22f84b",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "3",
+      "payment_value": "136.71"
+    },
+    {
+      "order_id": "5a1f6d22f7dfb061ef29216b9af687a1",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "4",
+      "payment_value": "47.69"
+    },
+    {
+      "order_id": "4214cda550ece8ee66441f459dc33a8c",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "2",
+      "payment_value": "170.57"
+    },
+    {
+      "order_id": "adfbf6c2a620196f9a3ec747491c72b7",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "4",
+      "payment_value": "67.50"
+    },
+    {
+      "order_id": "4d680edbaa7d3d9bed69532957368a03",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "10",
+      "payment_value": "353.09"
+    },
+    {
+      "order_id": "8cd68144cdb62dc0d60848cf8616d2a4",
+      "payment_sequential": "1",
+      "payment_type": "boleto",
+      "payment_installments": "1",
+      "payment_value": "330.66"
+    },
+    {
+      "order_id": "5cfd514482e22bc992e7693f0e3e8df7",
+      "payment_sequential": "2",
+      "payment_type": "voucher",
+      "payment_installments": "1",
+      "payment_value": "45.17"
+    },
+    {
+      "order_id": "d0a945f85ba1074b60aac97ade7e240e",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "2",
+      "payment_value": "541.00"
+    },
+    {
+      "order_id": "c39414c195d0f94c9d9c35e7c6ed4f1a",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "2",
+      "payment_value": "139.22"
+    },
+    {
+      "order_id": "5d9c5817e278892b7498d90bfa28ade8",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "2",
+      "payment_value": "290.16"
+    },
+    {
+      "order_id": "b69b9260e79a0da00e15f48de1bd2524",
+      "payment_sequential": "1",
+      "payment_type": "boleto",
+      "payment_installments": "1",
+      "payment_value": "283.34"
+    },
+    {
+      "order_id": "f45074ae38f2e01d9b854ec8d40362ff",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "13.78"
+    },
+    {
+      "order_id": "81cedc4d2132eb6f512354166e51b187",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "30.28"
+    },
+    {
+      "order_id": "595f598849d89203c28d05d0fbf3f92e",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "26.58"
+    },
+    {
+      "order_id": "f9d0ec2fa088ac583e1ccd15b6686073",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "89.68"
+    },
+    {
+      "order_id": "e647bf617de735448a4ba54f8910393c",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "65.09"
+    },
+    {
+      "order_id": "b2bb080b6bc860118a246fd9b6fad6da",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "173.84"
+    },
+    {
+      "order_id": "23f10f509600c30cf2852f9dbdf28fc3",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "103.49"
+    },
+    {
+      "order_id": "f86f6472fa9f395d8d9a6751ca118afb",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "64.03"
+    },
+    {
+      "order_id": "1dcf0c8cd36ffaf57784fbdc90079310",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "3",
+      "payment_value": "157.15"
+    },
+    {
+      "order_id": "00d8d65b666158b633f96054d31af43b",
+      "payment_sequential": "1",
+      "payment_type": "boleto",
+      "payment_installments": "1",
+      "payment_value": "130.88"
+    },
+    {
+      "order_id": "cf30fe76d1505192acee1c6dccb15545",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "2",
+      "payment_value": "47.72"
+    },
+    {
+      "order_id": "d3e774a185c0b1b2286ffd6c70abe2e6",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "8",
+      "payment_value": "117.74"
+    },
+    {
+      "order_id": "32b1d8f3789a57f1f752e20ac7404b4c",
+      "payment_sequential": "1",
+      "payment_type": "boleto",
+      "payment_installments": "1",
+      "payment_value": "56.60"
+    },
+    {
+      "order_id": "c10d412026c4077b8e83acf0fea04eee",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "266.16"
+    },
+    {
+      "order_id": "56c3277583e16009c925fdf116df420f",
+      "payment_sequential": "1",
+      "payment_type": "boleto",
+      "payment_installments": "1",
+      "payment_value": "31.38"
+    },
+    {
+      "order_id": "0e0441786430b7cfcd0d91f822ea4c99",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "121.49"
+    },
+    {
+      "order_id": "6ffb3f1686bceae3466facf7e02ce3fb",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "1",
+      "payment_value": "32.00"
+    },
+    {
+      "order_id": "afef48d3c8a0b1b7c9b7f8f922fb5674",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "5",
+      "payment_value": "153.41"
+    },
+    {
+      "order_id": "c0db7d31ace61fc360a3eaa34dd3457c",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "5",
+      "payment_value": "65.71"
+    },
+    {
+      "order_id": "d574338f566ca28dd67820f48ec1f1d8",
+      "payment_sequential": "1",
+      "payment_type": "credit_card",
+      "payment_installments": "4",
+      "payment_value": "278.22"
+    }
+  ]
+}

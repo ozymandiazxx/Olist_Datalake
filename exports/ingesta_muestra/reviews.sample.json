@@ -1,0 +1,456 @@
+{
+  "total_documentos_reales_en_ingesta": 99224,
+  "muestra_incluida": 50,
+  "documentos": [
+    {
+      "review_id": "7bc2406110b926393aa56f80a40eba40",
+      "order_id": "73fc7af87114b39712e6da79b0a377eb",
+      "review_score": "4",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-01-18 00:00:00",
+      "review_answer_timestamp": "2018-01-18 21:46:59"
+    },
+    {
+      "review_id": "80e641a11e56f04c1ad469d5645fdfde",
+      "order_id": "a548910a1c6147796b98fdf73dbeba33",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-03-10 00:00:00",
+      "review_answer_timestamp": "2018-03-11 03:05:13"
+    },
+    {
+      "review_id": "228ce5500dc1d8e020d8d1322874b6f0",
+      "order_id": "f9e4b658b201a9f2ecdecbb34bed034b",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-02-17 00:00:00",
+      "review_answer_timestamp": "2018-02-18 14:36:24"
+    },
+    {
+      "review_id": "e64fb393e7b32834bb789ff8bb30750e",
+      "order_id": "658677c97b385a9be170737859d3511b",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": "Recebi bem antes do prazo estipulado.",
+      "review_creation_date": "2017-04-21 00:00:00",
+      "review_answer_timestamp": "2017-04-21 22:02:06"
+    },
+    {
+      "review_id": "f7c4243c7fe1938f181bec41a392bdeb",
+      "order_id": "8e6bfb81e283fa7e4f11123a3fb894f1",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": "Parabéns lojas lannister adorei comprar pela Internet seguro e prático Parabéns a todos feliz Páscoa",
+      "review_creation_date": "2018-03-01 00:00:00",
+      "review_answer_timestamp": "2018-03-02 10:26:53"
+    },
+    {
+      "review_id": "15197aa66ff4d0650b5434f1b46cda19",
+      "order_id": "b18dcdf73be66366873cd26c5724d1dc",
+      "review_score": "1",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-04-13 00:00:00",
+      "review_answer_timestamp": "2018-04-16 00:39:37"
+    },
+    {
+      "review_id": "07f9bee5d1b850860defd761afa7ff16",
+      "order_id": "e48aa0d2dcec3a2e87348811bcfdf22b",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-07-16 00:00:00",
+      "review_answer_timestamp": "2017-07-18 19:30:34"
+    },
+    {
+      "review_id": "7c6400515c67679fbee952a7525281ef",
+      "order_id": "c31a859e34e3adac22f376954e19b39d",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-08-14 00:00:00",
+      "review_answer_timestamp": "2018-08-14 21:36:06"
+    },
+    {
+      "review_id": "a3f6f7f6f433de0aefbb97da197c554c",
+      "order_id": "9c214ac970e84273583ab523dfafd09b",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-05-17 00:00:00",
+      "review_answer_timestamp": "2017-05-18 12:05:37"
+    },
+    {
+      "review_id": "8670d52e15e00043ae7de4c01cc2fe06",
+      "order_id": "b9bf720beb4ab3728760088589c62129",
+      "review_score": "4",
+      "review_comment_title": "recomendo",
+      "review_comment_message": "aparelho eficiente. no site a marca do aparelho esta impresso como 3desinfector e ao chegar esta com outro nome...atualizar com a marca correta uma vez que é o mesmo aparelho",
+      "review_creation_date": "2018-05-22 00:00:00",
+      "review_answer_timestamp": "2018-05-23 16:45:47"
+    },
+    {
+      "review_id": "c9cfd2d5ab5911836ababae136c3a10c",
+      "order_id": "cdf9aa68e72324eeb25c7de974696ee2",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-12-23 00:00:00",
+      "review_answer_timestamp": "2017-12-26 14:36:03"
+    },
+    {
+      "review_id": "96052551d87e5f62e6c9f6974ec392e9",
+      "order_id": "3d374c9e46530bb5ed4a7648915306a6",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-12-19 00:00:00",
+      "review_answer_timestamp": "2017-12-20 10:25:22"
+    },
+    {
+      "review_id": "4b49719c8a200003f700d3d986ea1a19",
+      "order_id": "9d6f15f95d01e79bd1349cc208361f09",
+      "review_score": "4",
+      "review_comment_title": null,
+      "review_comment_message": "Mas um pouco ,travando...pelo valor ta Boa.\r\n",
+      "review_creation_date": "2018-02-16 00:00:00",
+      "review_answer_timestamp": "2018-02-20 10:52:22"
+    },
+    {
+      "review_id": "23f75a37effc35d9a915b4e1ad483793",
+      "order_id": "2eaf8e099d871cd5c22b83b5ea8f6e0e",
+      "review_score": "4",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-03-28 00:00:00",
+      "review_answer_timestamp": "2018-03-30 15:10:55"
+    },
+    {
+      "review_id": "9a0abbb668bafb95a6d2b05db43284c4",
+      "order_id": "d7bd0e4afdf94846eb73642b4e3e75c3",
+      "review_score": "3",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-04-30 00:00:00",
+      "review_answer_timestamp": "2017-05-03 00:02:22"
+    },
+    {
+      "review_id": "3948b09f7c818e2d86c9a546758b2335",
+      "order_id": "e51478e7e277a83743b6f9991dbfa3fb",
+      "review_score": "5",
+      "review_comment_title": "Super recomendo",
+      "review_comment_message": "Vendedor confiável, produto ok e entrega antes do prazo.",
+      "review_creation_date": "2018-05-23 00:00:00",
+      "review_answer_timestamp": "2018-05-24 03:00:01"
+    },
+    {
+      "review_id": "9314d6f9799f5bfba510cc7bcd468c01",
+      "order_id": "0dacf04c5ad59fd5a0cc1faa07c34e39",
+      "review_score": "2",
+      "review_comment_title": null,
+      "review_comment_message": "GOSTARIA DE SABER O QUE HOUVE, SEMPRE RECEBI E ESSA COMPRA AGORA ME DECPCIONOU",
+      "review_creation_date": "2018-01-18 00:00:00",
+      "review_answer_timestamp": "2018-01-20 21:25:45"
+    },
+    {
+      "review_id": "8e15a274d95600fa14f8be64e37a0e67",
+      "order_id": "ff1581e08b3011021e7c7de592ddc81e",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-03-24 00:00:00",
+      "review_answer_timestamp": "2018-03-26 15:58:32"
+    },
+    {
+      "review_id": "fdbdb2629a7cde0f66657acc92084e7f",
+      "order_id": "70a752414a13d09cc1f2b437b914b28e",
+      "review_score": "3",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-09-29 00:00:00",
+      "review_answer_timestamp": "2017-10-02 01:12:49"
+    },
+    {
+      "review_id": "373cbeecea8286a2b66c97b1b157ec46",
+      "order_id": "583174fbe37d3d5f0d6661be3aad1786",
+      "review_score": "1",
+      "review_comment_title": "Não chegou meu produto ",
+      "review_comment_message": "Péssimo",
+      "review_creation_date": "2018-08-15 00:00:00",
+      "review_answer_timestamp": "2018-08-15 04:10:37"
+    },
+    {
+      "review_id": "a2ff510ca4e059c3fefc7a7866571f6f",
+      "order_id": "a9953b2f0b1665ac7586cc5a6ac8f58c",
+      "review_score": "4",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-10-06 00:00:00",
+      "review_answer_timestamp": "2017-10-08 22:36:05"
+    },
+    {
+      "review_id": "80c70bc263881ba6525f6cee1d94ac87",
+      "order_id": "ae168dfba236919411fe08f336fefa44",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-03-17 00:00:00",
+      "review_answer_timestamp": "2018-04-04 19:41:11"
+    },
+    {
+      "review_id": "d21bbc789670eab777d27372ab9094cc",
+      "order_id": "4fc44d78867142c627497b60a7e0228a",
+      "review_score": "5",
+      "review_comment_title": "Ótimo",
+      "review_comment_message": "Loja nota 10",
+      "review_creation_date": "2018-07-10 00:00:00",
+      "review_answer_timestamp": "2018-07-11 14:10:25"
+    },
+    {
+      "review_id": "7bcb3c758c67f23638262c731493e848",
+      "order_id": "7c9956750739a47dba7a6928ba2f0245",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-09-09 00:00:00",
+      "review_answer_timestamp": "2017-10-17 02:25:47"
+    },
+    {
+      "review_id": "0e0190b9db53b689b285d3f3916f8441",
+      "order_id": "79832b7cb59ac6f887088ffd686e1d5e",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": "obrigado pela atençao amim dispensada",
+      "review_creation_date": "2017-12-01 00:00:00",
+      "review_answer_timestamp": "2017-12-09 22:58:58"
+    },
+    {
+      "review_id": "66e4430c5bc6b7e3773886bf1c14d912",
+      "order_id": "84cec4f65c7a4f2f54c294a30224a594",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-06-23 00:00:00",
+      "review_answer_timestamp": "2017-06-27 00:52:02"
+    },
+    {
+      "review_id": "bf566b3910c328733baf7fca7d2be041",
+      "order_id": "a59a15e4b6085c752d338431dc68d464",
+      "review_score": "4",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-11-01 00:00:00",
+      "review_answer_timestamp": "2017-11-01 20:25:30"
+    },
+    {
+      "review_id": "fe3db7c069d694bab50cc43463f91608",
+      "order_id": "2ca73e2ff9e3a186ad1e1ffb9b1d9c10",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": "A compra foi realizada facilmente.\r\nA entrega foi efetuada muito antes do prazo dado.\r\nO produto já começou a ser usado e até o presente,\r\nsem problemas.",
+      "review_creation_date": "2018-03-23 00:00:00",
+      "review_answer_timestamp": "2018-04-01 00:27:51"
+    },
+    {
+      "review_id": "e07eee7ad7666276bd8b27fbd83fd1ff",
+      "order_id": "68b3cbc68e4cd1fe19bec35f1d3bb7ee",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": "relógio muito bonito e barato.",
+      "review_creation_date": "2018-03-29 00:00:00",
+      "review_answer_timestamp": "2018-04-02 14:19:31"
+    },
+    {
+      "review_id": "2c5e27fc178bde7ac173c9c62c31b070",
+      "order_id": "0ce9a24111d850192a933fcaab6fbad3",
+      "review_score": "1",
+      "review_comment_title": null,
+      "review_comment_message": "Não gostei ! Comprei gato por lebre",
+      "review_creation_date": "2017-12-13 00:00:00",
+      "review_answer_timestamp": "2017-12-16 07:14:07"
+    },
+    {
+      "review_id": "540e7bbb2d06cfb7f85f3a88ba7ac97f",
+      "order_id": "cf73e2cb1f4a9480ed70c154da3d954a",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-01-18 00:00:00",
+      "review_answer_timestamp": "2018-01-18 19:12:30"
+    },
+    {
+      "review_id": "6a18a4001ae7fd911b3b9fb13686d105",
+      "order_id": "8ba3f3a9292fbc22a8b7dff752bbcd37",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-07-19 00:00:00",
+      "review_answer_timestamp": "2017-07-20 10:38:48"
+    },
+    {
+      "review_id": "58044bca115705a48fe0e00a21390c54",
+      "order_id": "68e55ca79d04a79f20d4bfc0146f4b66",
+      "review_score": "1",
+      "review_comment_title": null,
+      "review_comment_message": "Sempre compro pela Internet e a entrega ocorre antes do prazo combinado, que acredito ser o prazo máximo. No stark o prazo máximo já se esgotou e ainda não recebi o produto.",
+      "review_creation_date": "2018-04-08 00:00:00",
+      "review_answer_timestamp": "2018-04-09 12:22:39"
+    },
+    {
+      "review_id": "19a52a2297e5289ab4187d238d335982",
+      "order_id": "677c865b89aa97e7dbeb4bfbb50bbcfd",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-08-25 00:00:00",
+      "review_answer_timestamp": "2018-08-26 22:02:59"
+    },
+    {
+      "review_id": "c92cdd7dd544a01aa35137f901669cdf",
+      "order_id": "37e7875cdce5a9e5b3a692971f370151",
+      "review_score": "4",
+      "review_comment_title": "Muito bom.",
+      "review_comment_message": "Recebi exatamente o que esperava. As demais encomendas de outros vendedores atrasaram, mas esta chegou no prazo.",
+      "review_creation_date": "2018-06-07 00:00:00",
+      "review_answer_timestamp": "2018-06-09 18:44:02"
+    },
+    {
+      "review_id": "c0f4c8301f8c29d6f53d239e194bb4c2",
+      "order_id": "04db86e3493b3724ac4bd3c9a397e23c",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-09-12 00:00:00",
+      "review_answer_timestamp": "2017-09-13 14:33:49"
+    },
+    {
+      "review_id": "08c9d79ec0eba1d252e3f52f14b8e6a9",
+      "order_id": "e029f708df3cc108b3264558771605c6",
+      "review_score": "5",
+      "review_comment_title": "Bom",
+      "review_comment_message": "Recomendo ,",
+      "review_creation_date": "2018-06-13 00:00:00",
+      "review_answer_timestamp": "2018-06-13 22:54:44"
+    },
+    {
+      "review_id": "2170c9452c2216457b36003fe2969fbb",
+      "order_id": "af32671d0b8ce510a94d9111d97371d3",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": "muito boa ",
+      "review_creation_date": "2018-03-22 00:00:00",
+      "review_answer_timestamp": "2018-03-30 23:37:25"
+    },
+    {
+      "review_id": "b193ff3c9f32a01f3a0d9ae26b94d244",
+      "order_id": "e2e6ee1ed2d7f2f36b05d234983bd7a0",
+      "review_score": "5",
+      "review_comment_title": "Maravilhoso!",
+      "review_comment_message": "Tô completamente apaixonada, loja super responsável e confiável!",
+      "review_creation_date": "2018-08-10 00:00:00",
+      "review_answer_timestamp": "2018-08-11 00:22:13"
+    },
+    {
+      "review_id": "9fd59cd04b42f600df9f25e54082a8d1",
+      "order_id": "3c314f50bc654f3c4e317b055681dff9",
+      "review_score": "1",
+      "review_comment_title": null,
+      "review_comment_message": "Nada de chegar o meu pedido.",
+      "review_creation_date": "2017-04-21 00:00:00",
+      "review_answer_timestamp": "2017-04-23 05:37:03"
+    },
+    {
+      "review_id": "ab3056e4fb5a36df4b58c1746e4a6b8f",
+      "order_id": "aad1dcbe4c9fe2e3486e5e04c6649097",
+      "review_score": "2",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-05-13 00:00:00",
+      "review_answer_timestamp": "2018-05-14 16:29:15"
+    },
+    {
+      "review_id": "eb26c2bfb5030f57dcef30d3f111eb1e",
+      "order_id": "88096595631e8d26b658306256e3ce34",
+      "review_score": "1",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-02-08 00:00:00",
+      "review_answer_timestamp": "2018-02-10 04:28:43"
+    },
+    {
+      "review_id": "caf7d6d68090fedf0f47b27aff4b4eaf",
+      "order_id": "c186ebe3937470a2f562a2dc0bc74dd7",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-12-05 00:00:00",
+      "review_answer_timestamp": "2017-12-07 23:34:56"
+    },
+    {
+      "review_id": "86c5cfa7fcbde303f704b60a78ced7d6",
+      "order_id": "a6456e781cb962cc3f412b04de4fed7b",
+      "review_score": "5",
+      "review_comment_title": "Entrega perfeita",
+      "review_comment_message": "Muito bom. muito cheiroso.",
+      "review_creation_date": "2018-06-13 00:00:00",
+      "review_answer_timestamp": "2018-06-14 17:29:03"
+    },
+    {
+      "review_id": "6f3eb43ec2f5092cf04c8d705864a8ac",
+      "order_id": "f3a9c397a2fa5a2366b4b96bc15737f6",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-03-11 00:00:00",
+      "review_answer_timestamp": "2018-03-14 00:38:50"
+    },
+    {
+      "review_id": "3dc0777d97733a1d066f5b781e91577f",
+      "order_id": "44a9994228432b835c3a4e720b6a41ab",
+      "review_score": "4",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-03-29 00:00:00",
+      "review_answer_timestamp": "2018-03-31 00:13:07"
+    },
+    {
+      "review_id": "e363a3c172db72d6a8b82d0726cd2ddb",
+      "order_id": "1a36784e5c696071dad8a242f26b230f",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2018-01-25 00:00:00",
+      "review_answer_timestamp": "2018-02-18 23:03:20"
+    },
+    {
+      "review_id": "890ec1767be8eb104877db6d68eaade5",
+      "order_id": "b3271f5ebce80cbecb67c5b88487a44a",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": "otimo vendedor chegou ate antes do prazo , adorei o produto",
+      "review_creation_date": "2017-05-13 00:00:00",
+      "review_answer_timestamp": "2017-05-14 02:57:19"
+    },
+    {
+      "review_id": "23f570a1b0db9566bee04521a0410c54",
+      "order_id": "82c5edeff15e09a0460d292874766132",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": null,
+      "review_creation_date": "2017-09-22 00:00:00",
+      "review_answer_timestamp": "2017-09-23 13:57:39"
+    },
+    {
+      "review_id": "7d9ac3e98adc0c8ad579e6a2257d79f9",
+      "order_id": "dfa48852c93427261c98fb2e01f33bea",
+      "review_score": "5",
+      "review_comment_title": null,
+      "review_comment_message": "Processo de compra tranquilo e eficiente.",
+      "review_creation_date": "2018-04-24 00:00:00",
+      "review_answer_timestamp": "2018-04-25 16:01:03"
+    }
+  ]
+}

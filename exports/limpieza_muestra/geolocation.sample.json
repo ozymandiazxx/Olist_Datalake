@@ -1,0 +1,556 @@
+{
+  "total_documentos_reales": 358,
+  "muestra_incluida": 50,
+  "documentos": [
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f40"
+      },
+      "geolocation_zip_code_prefix": "01001",
+      "geolocation_lat": -23.550189776551765,
+      "geolocation_lng": -46.6340235559042,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f41"
+      },
+      "geolocation_zip_code_prefix": "01002",
+      "geolocation_lat": -23.54814573176355,
+      "geolocation_lng": -46.63497921074498,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f42"
+      },
+      "geolocation_zip_code_prefix": "01003",
+      "geolocation_lat": -23.54899372481316,
+      "geolocation_lng": -46.635731309975874,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f43"
+      },
+      "geolocation_zip_code_prefix": "01004",
+      "geolocation_lat": -23.549798842277006,
+      "geolocation_lng": -46.63475694378971,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f44"
+      },
+      "geolocation_zip_code_prefix": "01005",
+      "geolocation_lat": -23.549456199830747,
+      "geolocation_lng": -46.63673294803691,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f45"
+      },
+      "geolocation_zip_code_prefix": "01006",
+      "geolocation_lat": -23.55010181145287,
+      "geolocation_lng": -46.636136735174176,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f46"
+      },
+      "geolocation_zip_code_prefix": "01007",
+      "geolocation_lat": -23.550046202351663,
+      "geolocation_lng": -46.637251459637646,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f47"
+      },
+      "geolocation_zip_code_prefix": "01008",
+      "geolocation_lat": -23.54600174938346,
+      "geolocation_lng": -46.63588592135778,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f48"
+      },
+      "geolocation_zip_code_prefix": "01009",
+      "geolocation_lat": -23.546835208320868,
+      "geolocation_lng": -46.636490695312204,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f49"
+      },
+      "geolocation_zip_code_prefix": "01010",
+      "geolocation_lat": -23.54638943836927,
+      "geolocation_lng": -46.635226081509046,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f4a"
+      },
+      "geolocation_zip_code_prefix": "01011",
+      "geolocation_lat": -23.54690864025111,
+      "geolocation_lng": -46.63558202636041,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f4b"
+      },
+      "geolocation_zip_code_prefix": "01012",
+      "geolocation_lat": -23.547789733146864,
+      "geolocation_lng": -46.63485900505736,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f4c"
+      },
+      "geolocation_zip_code_prefix": "01013",
+      "geolocation_lat": -23.5471420283239,
+      "geolocation_lng": -46.63423580006204,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f4d"
+      },
+      "geolocation_zip_code_prefix": "01014",
+      "geolocation_lat": -23.545912805690417,
+      "geolocation_lng": -46.63361537124495,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f4e"
+      },
+      "geolocation_zip_code_prefix": "01015",
+      "geolocation_lat": -23.547665749383476,
+      "geolocation_lng": -46.631558570722675,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f4f"
+      },
+      "geolocation_zip_code_prefix": "01016",
+      "geolocation_lat": -23.548976407029944,
+      "geolocation_lng": -46.63235192955855,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f50"
+      },
+      "geolocation_zip_code_prefix": "01017",
+      "geolocation_lat": -23.54953127194786,
+      "geolocation_lng": -46.631023845552235,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f51"
+      },
+      "geolocation_zip_code_prefix": "01018",
+      "geolocation_lat": -23.550928517909007,
+      "geolocation_lng": -46.63243146837754,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f52"
+      },
+      "geolocation_zip_code_prefix": "01019",
+      "geolocation_lat": -23.551774137807584,
+      "geolocation_lng": -46.63089338270138,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f53"
+      },
+      "geolocation_zip_code_prefix": "01020",
+      "geolocation_lat": -23.552335651551417,
+      "geolocation_lng": -46.630049709845736,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f54"
+      },
+      "geolocation_zip_code_prefix": "01021",
+      "geolocation_lat": -23.543000459064803,
+      "geolocation_lng": -46.63214323386248,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f55"
+      },
+      "geolocation_zip_code_prefix": "01022",
+      "geolocation_lat": -23.544921826153427,
+      "geolocation_lng": -46.631931335611945,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f56"
+      },
+      "geolocation_zip_code_prefix": "01023",
+      "geolocation_lat": -23.542330784361457,
+      "geolocation_lng": -46.63137340438761,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f57"
+      },
+      "geolocation_zip_code_prefix": "01024",
+      "geolocation_lat": -23.54140143278026,
+      "geolocation_lng": -46.62990400057277,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f58"
+      },
+      "geolocation_zip_code_prefix": "01025",
+      "geolocation_lat": -23.540291945676326,
+      "geolocation_lng": -46.630928059419446,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f59"
+      },
+      "geolocation_zip_code_prefix": "01026",
+      "geolocation_lat": -23.539657127270946,
+      "geolocation_lng": -46.6318842127058,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f5a"
+      },
+      "geolocation_zip_code_prefix": "01027",
+      "geolocation_lat": -23.538082328385336,
+      "geolocation_lng": -46.6306686750678,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f5b"
+      },
+      "geolocation_zip_code_prefix": "01028",
+      "geolocation_lat": -23.535932541180536,
+      "geolocation_lng": -46.63355514575825,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f5c"
+      },
+      "geolocation_zip_code_prefix": "01029",
+      "geolocation_lat": -23.541373048980535,
+      "geolocation_lng": -46.633415988443026,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f5d"
+      },
+      "geolocation_zip_code_prefix": "01030",
+      "geolocation_lat": -23.53954929175343,
+      "geolocation_lng": -46.633023251513535,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f5e"
+      },
+      "geolocation_zip_code_prefix": "01031",
+      "geolocation_lat": -23.54190585344045,
+      "geolocation_lng": -46.63508761691669,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f5f"
+      },
+      "geolocation_zip_code_prefix": "01032",
+      "geolocation_lat": -23.540124454559958,
+      "geolocation_lng": -46.63519354379768,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f60"
+      },
+      "geolocation_zip_code_prefix": "01033",
+      "geolocation_lat": -23.539271437077804,
+      "geolocation_lng": -46.635878084214845,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f61"
+      },
+      "geolocation_zip_code_prefix": "01034",
+      "geolocation_lat": -23.542515317419944,
+      "geolocation_lng": -46.63736744880091,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f62"
+      },
+      "geolocation_zip_code_prefix": "01035",
+      "geolocation_lat": -23.541614488738944,
+      "geolocation_lng": -46.641549142526515,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f63"
+      },
+      "geolocation_zip_code_prefix": "01036",
+      "geolocation_lat": -23.54164845233628,
+      "geolocation_lng": -46.641443277359336,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f64"
+      },
+      "geolocation_zip_code_prefix": "01037",
+      "geolocation_lat": -23.545411016454082,
+      "geolocation_lng": -46.63892437204838,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f65"
+      },
+      "geolocation_zip_code_prefix": "01038",
+      "geolocation_lat": -23.54390737962768,
+      "geolocation_lng": -46.63999380609391,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f66"
+      },
+      "geolocation_zip_code_prefix": "01039",
+      "geolocation_lat": -23.54137085777194,
+      "geolocation_lng": -46.63916528885119,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f67"
+      },
+      "geolocation_zip_code_prefix": "01040",
+      "geolocation_lat": -23.541028179008823,
+      "geolocation_lng": -46.63832469496941,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f68"
+      },
+      "geolocation_zip_code_prefix": "01041",
+      "geolocation_lat": -23.54390458746036,
+      "geolocation_lng": -46.640046486444724,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f69"
+      },
+      "geolocation_zip_code_prefix": "01042",
+      "geolocation_lat": -23.54485294953175,
+      "geolocation_lng": -46.640410456031695,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f6a"
+      },
+      "geolocation_zip_code_prefix": "01043",
+      "geolocation_lat": -23.545765991186382,
+      "geolocation_lng": -46.641502464541404,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f6b"
+      },
+      "geolocation_zip_code_prefix": "01044",
+      "geolocation_lat": -23.545598238423416,
+      "geolocation_lng": -46.64145267015315,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f6c"
+      },
+      "geolocation_zip_code_prefix": "01045",
+      "geolocation_lat": -23.542345366178562,
+      "geolocation_lng": -46.64252697570119,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f6d"
+      },
+      "geolocation_zip_code_prefix": "01046",
+      "geolocation_lat": -23.545930039168816,
+      "geolocation_lng": -46.64399751778182,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f6e"
+      },
+      "geolocation_zip_code_prefix": "01047",
+      "geolocation_lat": -23.546187607081748,
+      "geolocation_lng": -46.64106743356167,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f6f"
+      },
+      "geolocation_zip_code_prefix": "01048",
+      "geolocation_lat": -23.54711318884073,
+      "geolocation_lng": -46.639839874896374,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f70"
+      },
+      "geolocation_zip_code_prefix": "01049",
+      "geolocation_lat": -23.54701123674601,
+      "geolocation_lng": -46.63916570493306,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    },
+    {
+      "_id": {
+        "$oid": "6a4b1fe56f33cb3685d71f71"
+      },
+      "geolocation_zip_code_prefix": "01050",
+      "geolocation_lat": -23.54922916358051,
+      "geolocation_lng": -46.64303023455153,
+      "geolocation_city": "Sao Paulo",
+      "geolocation_state": "SP",
+      "geolocation_location_code": "BR-SP"
+    }
+  ]
+}
